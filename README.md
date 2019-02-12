@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Added color to the app for eye appeal 
 
 ## Video Walkthrough 
 
@@ -38,7 +38,7 @@ with this.
 
 ## License
 
-    Copyright [2019] [name of copyright owner]
+    Copyright [2019] [Sylvia Sesay]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
